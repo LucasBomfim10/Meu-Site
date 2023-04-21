@@ -8,7 +8,7 @@ Basta acessar o link https://lucasbomfim10.github.io/Portfolio/ para visualizar 
 
 ## Screenshot
 
-![Screenshot do projeto Portfolio](./screenshot.png)
+![Screenshot do projeto Portfolio](./screenshot.PNG)
 
 ## Funcionalidades
 O site conta com três seções principais:
