@@ -1,10 +1,10 @@
 # Lucas Bomfim Portfolio
 
-Este projeto foi feito no curso Responsive Web Design do freeCodeCamp e consiste em uma galeria de fotos usando Typography com css e html. 
+Este projeto é um website desenvolvido durante o curso de Responsive Web Design do freeCodeCamp. Ele foi criado com o objetivo de servir como portfólio pessoal do autor.
 
 ## Como usar
 
-Basta acessar o link https://lucasbomfim10.github.io/Portfolio/ para visualizar o site. Na barra de navegação, é possível acessar as diferentes seções do site.
+Basta acessar o link https://lucasbomfim10.github.io/Meu-Site/ para visualizar o site. Na barra de navegação, é possível acessar as diferentes seções do site.
 
 ## Screenshot
 
