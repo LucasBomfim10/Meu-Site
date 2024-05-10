@@ -40,13 +40,12 @@ header {
     font-size: 18px;
 }
 
-
 /* Welcome Section Styles */
 #welcome-section {
     text-align: center;
-    background-color: #5B6D81; /* Adicionado fundo azul para a seção de boas-vindas */
-    color: #fff; /* Cor do texto branco */
-    padding: 50px 0; /* Espaçamento interno maior */
+    background-color: #5B6D81;
+    color: #fff;
+    padding: 50px 0;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -54,24 +53,21 @@ header {
     justify-content: center;
 }
 
-
-
 #strong {
-    color: #f9f9f9; /* Cor do texto branco */
+    color: #f9f9f9;
 }
 
 /* Project Section Styles */
 #web-projects {
-    background-color: #e0e0e0; /* Cor de fundo cinza suave para as seções de projetos */
-    padding: 100px; /* Adicionado espaçamento interno */
+    background-color: #e0e0e0;
+    padding: 100px;
     text-align: center;
     height: 100vh;
 }
 
-/* Project Section Styles */
 #data-projects {
-    background-color: #b3b9c0; /* Cor de fundo cinza suave para as seções de projetos */
-    padding: 100px; /* Adicionado espaçamento interno */
+    background-color: #b3b9c0;
+    padding: 100px;
     text-align: center;
     height: 100vh;
 }
@@ -81,31 +77,28 @@ header {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    
-    
 }
 
 .img {
-    width: 30%; /* Ajustado para 30% para melhor ajuste lado a lado */
+    width: 30%;
     margin-top: 30px;
     margin-bottom: 20px;
-    border-radius: 10px; /* Adicionado borda arredondada */
-    overflow: hidden; /* Oculta qualquer conteúdo que ultrapasse os limites da imagem */
-    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1); /* Adicionado sombra */
-    height: 500px; /* Definindo uma altura fixa para todos os contêineres de imagem */
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+    height: 500px;
     background-color: #333;
 }
 
 .img img {
-    width: 100%; /* Garante que a imagem ocupe todo o espaço dentro do contêiner */
-    height: 90%; /* Ajusta a altura para acompanhar a largura */
-    object-fit: cover; /* Ajusta a imagem para ocupar todo o espaço disponível, cortando partes que não cabem */
-    transition: transform 0.3s ease; /* Adiciona uma transição suave ao passar o mouse */
-    
+    width: 100%;
+    height: 90%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
 }
 
 .img:hover img {
-    transform: scale(1.05); /* Aumenta ligeiramente o tamanho da imagem ao passar o mouse */
+    transform: scale(1.05);
 }
 
 #projecttitle {
@@ -115,23 +108,19 @@ header {
     color: #fdf7f7;
     text-transform: uppercase;
     letter-spacing: 1px;
-    padding: 10px 10px; /* Adicione padding para o espaço ao redor do texto */
-    
-    border-radius: 5px; /* Adicione uma borda arredondada */
+    padding: 10px 10px;
+    border-radius: 5px;
 }
 
-
-a{
+a {
     text-decoration: none;
 }
-
-
 
 /* Contato Section Styles */
 #contato {
     text-align: center;
-    background-color: #65708B; /* Cor de fundo cinza suave para a seção de contato */
-    padding: 20px; /* Adicionado espaçamento interno */
+    background-color: #65708B;
+    padding: 20px;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -155,8 +144,9 @@ a{
     width: 100px;
     height: auto;
 }
-#web-projetos,#data-projetos {
+
+#web-projetos,
+#data-projetos {
     padding: 30px;
     font-size: 5vh;
-
 }
